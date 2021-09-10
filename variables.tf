@@ -10,7 +10,7 @@ variable "do_region" {
 
 variable "do_kubernetes_version" {
   type    = string
-  default = "1.21.2-do.2"
+  default = "1.21.3-do.0"
 }
 
 variable "do_default_node_pool_name" {
